@@ -56,11 +56,6 @@ If you are a landlord, renting out a smaller room at a higher price seems to be 
 From this table, we can see that single-person rooms are a major factor in lowering rent price.
 Table blow is only the data related to the city, we can see that the rent increases the closer we get to Delft.
 
-## Conclusion
-Using 46,000 data about rental properties in the Netherlands, we were able to find the answers, city with the highest rent, the property with the best value for the price per area, and the factors that determine the price.
-If you are a lender, you can use this model to set the optimal price.
-If you are a tenant, you should be able to find cost-effective properties by looking for properties that outliner from this model.
-
 
 # References
 
