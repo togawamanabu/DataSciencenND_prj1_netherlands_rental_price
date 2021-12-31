@@ -53,9 +53,6 @@ If you are a landlord, renting out a smaller room at a higher price seems to be 
 ![NL Rent Coef Table](./img/coef.png)
 ![NL Rent Coef dist Table](./img/coef_dist.png)
 
-From this table, we can see that single-person rooms are a major factor in lowering rent price.
-Table blow is only the data related to the city, we can see that the rent increases the closer we get to Delft.
-
 
 # References
 
